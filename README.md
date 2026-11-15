@@ -1,114 +1,143 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I'm%20Rida%20Anjum&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7c3aed,100:00F5FF&height=240&section=header&text=RIDA%20ANJUM&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Python%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;B.E.+in+AI+%26+Machine+Learning+%F0%9F%8E%93;Python+%7C+Java+%7C+SQL+%F0%9F%92%BB;Where+AI+meets+design+%F0%9F%8E%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Aspiring+AI+Engineer;%3E+Python+Developer;%3E+Building+AI-powered+apps;%3E+Where+AI+meets+design" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rida-200520&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C%20IN-7c3aed?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=rida-200520&label=VIEWS&color=00F5FF&style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
 
-## ✨ About Me
+## 💻 `whoami`
 
-```python
-class RidaAnjum:
-    role = "Aspiring AI Engineer | Python Developer"
-    education = "B.E. in AI & ML @ New Horizon College of Engineering"
-    background = ["Diploma in Gaming & Animation", "UI/UX Design", "AI & ML"]
-    languages = ["English", "Kannada", "Hindi", "Urdu"]
-    currently_learning = ["Machine Learning", "Data Analysis", "DSA"]
-    goal = "Build intelligent, user-friendly AI products"
+```bash
+$ whoami
+rida_anjum
 
-    def say_hi(self):
-        print("Let's build something intelligent and beautiful 🚀")
+$ cat profile.json
 ```
 
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning** (2025 – 2028)
-- 🔭 Building **AI-powered apps** with Python, Hugging Face and LLMs
-- 🎨 Design-minded developer with a background in **gaming, animation and UI/UX**
-- 💡 Practicing **DSA** on LeetCode and HackerRank
-- 🌱 Passionate about continuous learning and innovation
+```json
+{
+  "name": "Rida Anjum",
+  "role": "Aspiring AI Engineer | Python Developer",
+  "education": "B.E. in AI & ML @ New Horizon College of Engineering (2025-2028)",
+  "background": ["Gaming & Animation", "UI/UX Design", "AI & ML"],
+  "languages_spoken": ["English", "Kannada", "Hindi", "Urdu"],
+  "currently_learning": ["Machine Learning", "Data Analysis", "DSA"],
+  "mission": "Build intelligent, user-friendly AI products",
+  "status": "Building in public 🚀"
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,sqlite,git,github,vscode,pandas,numpy,sklearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,sqlite,pandas,numpy,sklearn,git,github,vscode&perline=10&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/PyQt5-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5FF" />
 </p>
-
-**Core concepts:** `Data Structures & Algorithms` · `OOP` · `DBMS` · `Machine Learning` · `Data Analysis` · `Computer Networks`
 
 ---
 
 ## 🚀 Featured Project
 
-<table>
-  <tr>
-    <td>
-      <h3>🧑‍💻 AI-Assisted Python Coding Learning Platform</h3>
-      <p>A desktop learning platform that helps students learn Python with AI-powered code evaluation and adaptive hints, plus dashboards for learners and instructors.</p>
-      <ul>
-        <li>🤖 AI code evaluation and adaptive hint generation using <b>Qwen2.5-Coder</b></li>
-        <li>⌨️ Keystroke-based AI-generated code detection</li>
-        <li>👥 Role-based user management (learner / instructor)</li>
-        <li>📊 Dashboards for automated assessment and feedback</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>PyQt5</code> <code>SQLite</code> <code>Hugging Face API</code> <code>Qwen2.5-Coder</code> <code>Git</code>
-      </p>
-      <a href="https://github.com/rida-200520/python-learning-platform">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
+### 🧑‍💻 AI-Assisted Python Coding Learning Platform
 
-> 🚧 More projects in Machine Learning and Data Analysis coming soon!
+A desktop learning platform with AI-powered code evaluation and adaptive hints, plus dashboards for learners and instructors.
+
+```mermaid
+flowchart LR
+    A[👩‍🎓 Learner / 👨‍🏫 Instructor] --> B[PyQt5 Desktop UI]
+    B --> C[AI Evaluation Engine]
+    C --> D[Qwen2.5-Coder via Hugging Face API]
+    B --> E[(SQLite Database)]
+    B --> F[Keystroke-based AI Code Detection]
+    E --> G[📊 Dashboards & Feedback]
+```
+
+| Feature | Details |
+|---|---|
+| 🤖 **AI Evaluation** | Code assessment and adaptive hint generation with Qwen2.5-Coder |
+| ⌨️ **Integrity Check** | Keystroke-based detection of AI-generated code |
+| 👥 **Access Control** | Role-based user management (learner / instructor) |
+| 📊 **Dashboards** | Automated assessment and feedback views |
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PyQt5-0D1117?style=flat-square&logo=qt&logoColor=41CD52" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+👉 [**View Repository**](https://github.com/rida-200520/python-learning-platform)
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ Roadmap
+
+- [x] Python, Java, SQL and OOP fundamentals
+- [x] Built an AI-powered desktop application
+- [ ] Build ML projects with Scikit-learn and Pandas
+- [ ] Data analysis and visualization projects
+- [ ] Strengthen DSA on LeetCode and HackerRank
+- [ ] Deep learning and NLP projects
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rida-200520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida-200520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rida-200520&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida-200520&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rida-200520&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=rida-200520&theme=radical&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rida-200520&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=7c3aed&point=ffffff" width="100%" />
 </p>
 
 ---
 
 ## 🏅 Certifications
 
-- 💼 Software Engineering Job Simulation, **Forage**
-- 🔐 Cybersecurity Essentials, **Cisco Networking Academy**
-- 🌐 Networking Basics, **Cisco Networking Academy**
-- 🤖 AI Tools Workshop, **BE10X**
-- 🎮 Game Design & Development, **MSME IDEMI**
-- 🎨 UI/UX Design Workshop, **Arena Animation**
+| 🎓 Certification | 🏢 Issuer |
+|---|---|
+| Software Engineering Job Simulation | Forage |
+| Cybersecurity Essentials | Cisco Networking Academy |
+| Networking Basics | Cisco Networking Academy |
+| AI Tools Workshop | BE10X |
+| Game Design & Development | MSME IDEMI |
+| UI/UX Design Workshop | Arena Animation |
 
 ---
 
-## 📫 Let's Connect
+## 📡 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridanjum2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ridanjum@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ridanjum2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/ridanjum2005"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/ridanjum2005/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:ridanjum@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://leetcode.com/u/ridanjum2005/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://www.hackerrank.com/profile/ridanjum2005"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7c3aed,100:00F5FF&height=120&section=footer" width="100%" />
